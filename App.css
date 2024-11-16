@@ -1,0 +1,8 @@
+.main-container{
+  background-color: lightblue;
+  width: 50%;
+  margin: auto;
+  height: 70vh;
+  text-align: center;
+  border: 1px solid black;
+}
